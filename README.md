@@ -1,4 +1,6 @@
-<p align="left"> <img src="https://www.gstatic.com/devrel-devsite/prod/vd0b6a72e157acde26de95ec0a4f3c963ef89b26016c053f67be2964730c81ac3/tensorflow/images/lockup.svg" alt="TensorFlow Logo" width=400 /> </p>
+
+![3P Logo -Hyderabad](https://github.com/user-attachments/assets/44a7e967-f2fc-4d35-8877-2581787aa605)
+
 <h2> Resources to learn Tensorflow </h2>
   
 <h4> Official Documentation to Learn Tensorflow </h4>
